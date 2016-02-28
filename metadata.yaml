@@ -1,0 +1,73 @@
+_repo: A-Book-of-German-Lyrics_8565
+contributor:
+  creator:
+    editor:
+      agent_name: Bruns, Friedrich
+      birthdate: 1878
+      gutenberg_agent_id: '2805'
+      url: http://www.gutenberg.org/2009/agents/2805
+description: Includes preface and notes in English, and German-English vocabulary
+gutenberg_bookshelf:
+- DE Lyrik
+- Germany
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8565'
+language:
+- de
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry'
+- !lcc 'PT'
+tableOfContents: "Goethe\r\n\r\n   1. Willkommen und Abschied\r\n   2. Mailied\r\n\
+  \   3. Auf dem See\r\n   4. Heidenröslein\r\n   5. Wanderers Nachtlied\r\n   6.\
+  \ Ein gleiches\r\n   7. Hoffnung\r\n   8. Erinnerung\r\n   9. Gefunden\r\n  10.\
+  \ Mignon\r\n  11. Harfenspieler\r\n  12. Der König in Thule\r\n  13. Der Fischer\r\
+  \n  14. Erlkönig\r\n  15. Gesang der Geister über den Wassern\r\n  16. Grenzen der\
+  \ Menschheit\r\n  17. Lied des Türmers\r\n\r\nSchiller\r\n\r\n  18. Die Kraniche\
+  \ des Ibykus\r\n  19. Das verschleierte Bild zu Sais\r\n\r\nUhland\r\n\r\n  20.\
+  \ Die Lerchen\r\n  21. Des Knaben Berglied\r\n  22. Schäfers Sonntagslied\r\n  23.\
+  \ Die Kapelle\r\n  24. Morgenlied\r\n  25. Frühlingsglaube\r\n  26. Lob des Frühlings\r\
+  \n  27. Das Schwert\r\n  28. Die Rache\r\n  29. Der Wirtin Töchterlein\r\n  30.\
+  \ Der gute Kamerad\r\n  31. Taillefer\r\n  32. Des Sängers Fluch\r\n\r\nEichendorff\r\
+  \n\r\n  33. Der frohe Wandersmann\r\n  34. Der Jäger Abschied\r\n  35. Nachts\r\n\
+  \  36. Frühlingsdämmerung\r\n  37. Elfe\r\n  38. Abendlandschaft\r\n  39. Die Nacht\r\
+  \n  40. Sehnsucht\r\n  41. Das zerbrochene Ringlein\r\n  42. Frühe\r\n  43. Nachts\r\
+  \n  44. Mondnacht\r\n\r\nRückert\r\n\r\n  45. Aus der Jugendzeit\r\n\r\nHeine\r\n\
+  \r\n  46. Die Grenadiere\r\n  47. In mein gar zu dunkles Leben\r\n  48. Ich weiß\
+  \ nicht, was soll es bedeuten\r\n  49. Du bist wie eine Blume\r\n  50. Auf Flügeln\
+  \ des Gesanges\r\n  51. Die Lotosblume ängstigt\r\n  52. Ein Fichtenbaum\r\n  53.\
+  \ Mein Liebchen, wir saßen beisammen\r\n  54. Ein Jüngling liebt sein Mädchen\r\n\
+  \  55. Dämmernd liegt der Sommerabend\r\n  56. Es fällt ein Stern herunter\r\n \
+  \ 57. Der Tod, das ist die kühle Nacht\r\n  58. Sag, wo ist dein schönes Liebchen\r\
+  \n  59. Frieden\r\n  60. Leise zieht durch mein Gemüt\r\n  61. Es war ein alter\
+  \ König\r\n  62. Es ziehen die brausenden Wellen\r\n  63. Es ragt ins Meer der Runenstein\r\
+  \n  64. In der Fremde\r\n  65. Wo?\r\n\r\nPlaten\r\n\r\n  66. Das Grab im Busento\r\
+  \n  67. Im Wasser wogt die Lilie\r\n  68. Wie rafft' ich mich auf in der Nacht\r\
+  \n  69. Ich möchte, wann ich sterbe\r\n\r\nLenau\r\n\r\n  70. Bitte\r\n  71. Schilflied\r\
+  \n  72. Der Eichwald\r\n  73. Der Postillion\r\n  74. Die Drei\r\n  75. Der offene\
+  \ Schrank\r\n  76. Auf eine holländische Landschaft\r\n  77. Stimme des Regens\r\
+  \n  78. Herbst\r\n\r\nMörike\r\n\r\n  79. Um Mitternacht\r\n  80. Septembermorgen\r\
+  \n  81. Er ist's\r\n  82. In der Frühe\r\n  83. Der Feuerreiter\r\n  84. Das verlassene\
+  \ Mägdlein\r\n  85. Lebewohl\r\n  86. Schön-Rohtraut\r\n  87. Auf eine Lampe\r\n\
+  \  88. Gebet\r\n  89. Denk' es, o Seele\r\n\r\nHebbel\r\n\r\n  90. Nachtlied\r\n\
+  \  91. Das Kind\r\n  92. Nachtgefühl\r\n  93. Gebet\r\n  94. Abendgefühl\r\n  95.\
+  \ Ich und du\r\n  96. Sommerbild\r\n  97. Herbstbild\r\n  98. Der letzte Baum\r\n\
+  \r\nKeller\r\n\r\n  99. An das Vaterland\r\n 100. Winternacht\r\n 101. Abendlied\r\
+  \n\r\nStorm\r\n\r\n 102. Oktoberlied\r\n 103. Weihnachtslied\r\n 104. Sommermittag\r\
+  \n 105. Die Stadt\r\n 106. Über die Heide\r\n 107. Lucie\r\n 108. Eine Frühlingsnacht\r\
+  \n 109. April\r\n 110. Mai\r\n 111. Elisabeth\r\n 112. Frauenhand\r\n 113. Schließe\
+  \ mir die Augen beide\r\n\r\nMeyer\r\n\r\n 114. Liederseelen\r\n 115. Nachtgeräusche\r\
+  \n 116. Das tote Kind\r\n 117. Im Spätboot\r\n 118. Vor der Ernte\r\n 119. Der römische\
+  \ Brunnen\r\n 120. Neujahrsglocken\r\n 121. Säerspruch\r\n 122. Schnitterlied\r\n\
+  \ 123. Nach einem Niederländer\r\n 124. Eingelegte Ruder\r\n 125. Ewig jung ist\
+  \ nur die Sonne\r\n 126. Requiem\r\n 127. Abendwolke\r\n 128. Das Glöcklein\r\n\
+  \ 129. Die Bank des Alten\r\n\r\nLiliencron\r\n\r\n 130. Die Musik kommt\r\n 131.\
+  \ Tod in Ähren\r\n 132. In Erinnerung\r\n 133. Wer weiß wo\r\n 134. Sommernacht\r\
+  \n 135. Meiner Mutter\r\n 136. Wiegenlied\r\n 137. Viererzug\r\n 138. Schöne Junitage"
+title: A Book of German Lyrics
+url: http://www.gutenberg.org/ebooks/8565
